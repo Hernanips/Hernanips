@@ -8,23 +8,31 @@
     </summary>
   </ul>
 </div>
+
 Soy Victor, desarrollador con base en Valencia, España.
 
-Creo proyectos digitales relacionados con **videojuegos, web, apps y diseño digital**.
+Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y actualmente estudiante de **Diseño y Tecnologías Creativas en la UPV**.
 
-Cuando una idea me motiva, suelo intentar convertirla en algo real, aunque lleve tiempo.
+Me interesa el punto de unión entre la **lógica técnica de sistemas** y la **visión creativa de producto**: desde arquitectura backend y automatizaciones hasta desarrollo de videojuegos y diseño interactivo.
 
-Actualmente estoy desarrollando **[Project OBSCURA](https://youtube.com/playlist?list=PL2vUTcTrDLnsemg-LvmrzGmBoj-2wm_iO&si=2GPT3k7xcfUWW4W2)**, un videojuego de terror en desarrollo y de carácter privado.  
-El código no es público, pero comparto el progreso y devlogs del proyecto en YouTube.
+---
 
-En mis repositorios públicos suelo subir principalmente proyectos web y aplicaciones, mientras que los proyectos creativos grandes los mantengo privados.
+### 🛠️ Proyectos activos
 
-**Tecnologías y herramientas principales:**
-- Java, C#, JavaScript / TypeScript, HTML, CSS
-- React, Angular, Unity
-- Blender, Figma, Notion, GitHub
-- VS Code, Visual Studio, Android Studio
+- **[Project OBSCURA](https://youtube.com/playlist?list=PL2vUTcTrDLnsemg-LvmrzGmBoj-2wm_iO&si=2GPT3k7xcfUWW4W2)**: Videojuego indie de terror en Unity (C#) de carácter privado. Comparto el proceso técnico, arquitectura y devlogs en YouTube.
+- **[Jarvis OS](https://github.com/tu-usuario/jarvis-os)**: Dashboard y PWA de automatización personal desplegado en Vercel con Supabase, integrando APIs externas de productividad y métricas de salud/entrenamiento.
+- **[Personal Landing / Linktree](https://github.com/tu-usuario/tu-repo-linktree)**: Landing editorial orientada a rendimiento y diseño adaptativo desarrollada con React, TypeScript y Tailwind CSS.
 
-Llevo alrededor de **3 años programando**, aprendiendo sobre todo a base de crear proyectos.
+---
 
-Fuera del desarrollo, hago deporte, juego a videojuegos, veo anime y leo manga y libros.
+### 💻 Stack y herramientas
+
+- **Lenguajes:** Java, C#, TypeScript, JavaScript, SQL, HTML/CSS
+- **Frameworks & Libs:** React, Vite, Tailwind CSS, GSAP
+- **Bases de datos & Cloud:** Supabase (PostgreSQL), Vercel
+- **Game Dev & Creative:** Unity, Processing, Figma, Blender
+- **Sistemas & Entorno:** Linux, Redes/Cisco, Git/GitHub, VS Code, Android Studio
+
+Llevo alrededor de **3 años desarrollando**, aprendiendo principalmente a base de construir arquitecturas reales y resolver problemas prácticos.
+
+Fuera del código: running, gimnasio, videojuegos, anime y lectura.
