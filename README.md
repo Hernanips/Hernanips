@@ -20,8 +20,8 @@ Me interesa el punto de unión entre la **lógica técnica de sistemas** y la **
 ### 🛠️ Proyectos activos
 
 - **[Project OBSCURA](https://youtube.com/playlist?list=PL2vUTcTrDLnsemg-LvmrzGmBoj-2wm_iO&si=2GPT3k7xcfUWW4W2)**: Videojuego indie de terror en Unity (C#) de carácter privado. Comparto el proceso técnico, arquitectura y devlogs en YouTube.
-- **[Jarvis OS](https://github.com/tu-usuario/jarvis-os)**: Dashboard y PWA de automatización personal desplegado en Vercel con Supabase, integrando APIs externas de productividad y métricas de salud/entrenamiento.
-- **[Personal Landing / Linktree](https://github.com/tu-usuario/tu-repo-linktree)**: Landing editorial orientada a rendimiento y diseño adaptativo desarrollada con React, TypeScript y Tailwind CSS.
+- **[Jarvis OS](https://github.com/Hernanips/jarvis-os)**: Dashboard y PWA de automatización personal desplegado en Vercel con Supabase, integrando APIs externas de productividad y métricas de salud/entrenamiento.
+- **[Personal Landing / Linktree](https://github.com/Hernanips/linktree-personal)**: Landing editorial orientada a rendimiento y diseño adaptativo desarrollada con React, TypeScript y Tailwind CSS.
 
 ---
 
